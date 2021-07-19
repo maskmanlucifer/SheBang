@@ -1,1 +1,1 @@
-<img src="carbon.png" width="100%" height="100px">
+<img src="carbon.png" width="100%" height="600px">
