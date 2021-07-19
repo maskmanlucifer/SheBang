@@ -1,1 +1,1 @@
-![SheBang](carbon.png)
+![SheBang](carbon.png = 250x)
